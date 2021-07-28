@@ -54,4 +54,4 @@ if __name__ == '__main__':
          input('Presione ENTER para salir...')
      except SyntaxError:
         pass
-    #prgrama 
+    #prgrama ds
